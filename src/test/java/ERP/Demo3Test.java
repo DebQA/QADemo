@@ -16,5 +16,10 @@ public class Demo3Test {
 		System.out.println("Welcome Demo3 - Second Test Case..");
 	}
 	
+	@Test
+	public void ConfigureSpeed() {
+	
+		System.out.println("Welcome Demo3 - Third Test Case..");
+	}
 	
 }
