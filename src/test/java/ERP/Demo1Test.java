@@ -21,4 +21,10 @@ public class Demo1Test {
 	
 		System.out.println("Welcome Demo1 - Third Test Case..");
 	}
+	
+	@Test
+	public void DeleteMail() {
+	
+		System.out.println("Welcome Demo1 - Fourth Test Case..");
+	}
 }
