@@ -22,4 +22,9 @@ public class Demo3Test {
 		System.out.println("Welcome Demo3 - Third Test Case..");
 	}
 	
+	@Test
+	public void ReduceSpeed() {
+	
+		System.out.println("Welcome Demo4 - Fourth Test Case..");
+	}
 }
