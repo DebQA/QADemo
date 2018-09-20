@@ -22,6 +22,7 @@ public class Demo2 {
 	
 		System.out.println("Welcome Demo2 - Third Test Case..");
 	}
+	
 	@Test
 	public void DeleteAssets() {
 	
