@@ -5,7 +5,6 @@
     <classes>
       <class name="ERP.Demo1Test"/>
       <class name="ERP.Demo3Test"/>
-      <class name="ERP.Demo2"/>
-    </classes>
+      </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
